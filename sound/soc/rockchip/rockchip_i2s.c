@@ -598,6 +598,7 @@ static const struct of_device_id rockchip_i2s_match[] = {
 	{ .compatible = "rockchip,rk3066-i2s", },
 	{ .compatible = "rockchip,rk3128-i2s", },
 	{ .compatible = "rockchip,rk3188-i2s", },
+	{ .compatible = "rockchip,rk3308-i2s", },
 	{ .compatible = "rockchip,rk3288-i2s", },
 	{ .compatible = "rockchip,rk3308-i2s", },
 	{ .compatible = "rockchip,rk3328-i2s", },
